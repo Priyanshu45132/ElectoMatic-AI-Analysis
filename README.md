@@ -1,5 +1,4 @@
-# VoxPopuli
-## Election Survey Automation & Analytics Suite
+## Data Automation & Analytics 
 
 > *"Voice of the People - Decoding the Electoral Mandate"*
 
