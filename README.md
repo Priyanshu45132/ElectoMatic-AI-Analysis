@@ -97,8 +97,4 @@ Designed for political consulting firms, election strategists, and research orga
 - **Exclusion Filters** (e.g., test emails)
 - **Customizable Output Formats**
 
----
 
-## Prerequisites
-
-### System Requirements
